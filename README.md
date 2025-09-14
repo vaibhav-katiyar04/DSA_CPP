@@ -6,9 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
