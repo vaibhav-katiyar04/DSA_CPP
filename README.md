@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [2058-concatenation-of-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
