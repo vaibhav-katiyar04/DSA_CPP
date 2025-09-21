@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [2058-concatenation-of-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
