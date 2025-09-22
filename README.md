@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vaibhav-katiyar04/Leetcode_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
